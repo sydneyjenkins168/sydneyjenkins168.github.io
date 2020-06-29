@@ -1,11 +1,11 @@
 # Site settings
 author: Sydney Jenkins
-title: 
+title: Software Engineering Journey
 header-img: img/home-bg.png
 email: sydjenkins168@gmail.com
 copyright_name: Sydney Jenkins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey into becoming a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sydneyjenkins168
